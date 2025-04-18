@@ -1,0 +1,2 @@
+cargo run --release --no-default-features -- --path="C:/Mittenwalde/.minecraft/saves/mittenwalde" --bbox="min_lng,min_lat,max_lng,max_lat"
+For the GUI: cargo run --release
